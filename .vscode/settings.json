@@ -1,0 +1,7 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "scm.providerCountBadge": "hidden",
+  "editor.minimap.autohide": false,
+  "git.untrackedChanges": "mixed"
+}
